@@ -1,4 +1,8 @@
 There are two branches in this repo: 
+One where CloudFormation template for this project lies. This is the default branch.
+Current branch contains Python CDK code that was reponsible for generating the CFT you see in default branch.
+
+Use git checkout <branch_name> to switch the branches and look at the code you want to explore.
 
 
 # Welcome to your CDK Python project!
