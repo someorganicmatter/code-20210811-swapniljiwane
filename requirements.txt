@@ -1,0 +1,10 @@
+-e .
+aws-cdk.core==1.97.0
+
+aws-cdk.aws_lambda==1.97.0
+aws-cdk.aws_sqs==1.97.0
+
+aws-cdk.aws_s3==1.97.0
+aws-cdk.aws_iam==1.97.0
+aws-cdk.aws_sns==1.97.0
+aws-cdk.aws_s3_notifications==1.97.0
