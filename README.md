@@ -1,5 +1,5 @@
 # Project Overview
-This repository is an IaaC framework written in Python as well as AWS CDK.
+This repository is an IaaC framework written in Python/AWS CDK as well as AWS CloudFormation.
 
 It sets up a number of AWS resources to deploy a stack of
 - **`AWS SNS`**: Publishes a message with some dummy message data
@@ -8,7 +8,8 @@ It sets up a number of AWS resources to deploy a stack of
 - **`S3`**: Hosts the uploaded file and triggers a downstream SNS topic 
 - **`AWS SNS`**: Sends a notification mail to the registered email ID specified in app.py file
 
----
+<br>
+
 # Description
 There are two branches in this repo: 
 - Current branch - CloudFormation template for this project lies. This is the default branch.
